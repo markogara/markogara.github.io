@@ -50,7 +50,7 @@ small {
 
 .container {
     width: 100%;
-    max-width: 950px;
+    max-width: 900px;
     margin: 0 auto 0px auto;
     overflow: auto;
 }
