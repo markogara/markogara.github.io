@@ -64,6 +64,7 @@ header {
     float: left;
     font-size: 1em;
     text-align: center;
+    padding-bottom: 30px;
 }
 
 a {
@@ -122,10 +123,10 @@ sub-header {
     float: left;
     text-align: left;
     font-family: "Georgia", serif;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-right: 30px;
     padding-left: 30px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 .content {
