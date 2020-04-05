@@ -137,8 +137,8 @@ sub-header {
     float: left;
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 20px;
-    padding-top: 40px;
+    padding-bottom: 10px;
+    padding-top: 20px;
     position: relative;
     width: 100%;
 }
@@ -148,22 +148,22 @@ sub-header {
     text-align: center;
 }
 
-@media (min-width: 640px){.container {
-        width: 640px;
+@media (min-width: 667px){.container {
+        width: 600px;
     }
 }
 
-@media (min-width: 900px){.container {
-        width: 900px;
-    }
-}
-
-@media (min-width: 640px){.content .project {
+@media (min-width: 667px){.content .project {
         width: 50%;
     }
 }
 
-@media (min-width: 900px){.content .project {
+@media (min-width: 850px){.container {
+        width: 750px;
+    }
+}
+
+@media (min-width: 850px){.content .project {
         width: 50%;
     }
 }
