@@ -137,8 +137,8 @@ sub-header {
     float: left;
     padding-left: 30px;
     padding-right: 30px;
-    padding-bottom: 10px;
-    padding-top: 20px;
+    padding-bottom: 30px;
+    padding-top: 40px;
     position: relative;
     width: 100%;
 }
