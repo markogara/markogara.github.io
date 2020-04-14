@@ -159,7 +159,7 @@ sub-header {
 }
 
 @media (min-width: 850px){.container {
-        width: 750px;
+        width: 700px;
     }
 }
 
